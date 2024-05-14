@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 &nbsp;<a ref="https://www.linkedin.com/in/sergio-jr-s-almeida/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 &nbsp;<a ref="https://www.instagram.com/sergio_salmeida/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
 </div>          
-&nbsp;<a ref="https://discord.gg/gmrhfekxxU"><img img width='50' height='50' src="https://github.com/SergioJr-C/SergioJr-C/assets/57755646/89da5e2d-8be4-4532-b0fe-eeabf00b1c9f"></a>&nbsp;
+&nbsp;<a ref="https://discord.gg/gmrhfekxxU"><img width='50' height='50' src="https://github.com/SergioJr-C/SergioJr-C/assets/57755646/89da5e2d-8be4-4532-b0fe-eeabf00b1c9f"></a>&nbsp;
 
 
 
