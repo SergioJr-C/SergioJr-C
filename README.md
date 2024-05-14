@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width='50' height='50' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J2emJuNjhyd3JiMnZjbmxvODFzdGU1ZDk0b2lpNXlnb2ozdjQyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif" />&nbsp;&nbsp;
 </div>
 
 <br>
