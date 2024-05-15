@@ -44,17 +44,18 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;
-</div>
-<br>
+</div><br>
 
-<div>
+![giphy](https://github.com/SergioJr-C/SergioJr-C/assets/57755646/790200d7-89fb-448e-ae9e-1248a6271160)
+
+<br><div>
 &nbsp;<a href="https://www.linkedin.com/in/sergio-jr-s-almeida/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>&nbsp;
 &nbsp;<a href="https://www.instagram.com/sergio_salmeida/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"></a>&nbsp;
 &nbsp;<a href="https://discord.gg/gmrhfekxxU"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>&nbsp;
-</div>          
+</div><br>         
 
 
-![giphy](https://github.com/SergioJr-C/SergioJr-C/assets/57755646/790200d7-89fb-448e-ae9e-1248a6271160)
+
 
 
 
