@@ -44,13 +44,8 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;
-![giphy](https://github.com/SergioJr-C/SergioJr-C/assets/57755646/b6103105-24c2-4b86-a443-f8c174337ebb| width=50)
-
-
-
-
 </div>
-
+![giphy](https://github.com/SergioJr-C/SergioJr-C/assets/57755646/b6103105-24c2-4b86-a443-f8c174337ebb| width=50)
 <br>
 
 <div>
