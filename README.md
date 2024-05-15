@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![image](https://github.com/SergioJr-C/SergioJr-C/assets/57755646/1fd64f54-845b-4229-b968-a7419687a122)
+
 
 <!--
 **SergioJr-C/SergioJr-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
